@@ -9,6 +9,9 @@ networked is a _model_ for a website that hosts webforums on how to develop thin
 this update will come with a variety of new features:
 
 •	website
+
 •	forums
+
 •	logins
+
 •	donation pages
